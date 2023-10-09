@@ -1,9 +1,3 @@
-/*
-* Template Name: Kerge - Resume / CV / vCard Template
-* Author: lmpixels
-* Author URL: http://themeforest.net/user/lmpixels
-* Version: 2.4
-*/
 
 (function($) {
 "use strict";
@@ -338,7 +332,7 @@
             zoom: 16 // Google Map ZOOM. You can change this value
         });
         $("#map").addMarker({
-            address: "Agape High Street, Accra, Greator Accra, GHA", // Your Address. Change it
+            address: "Agape High St", // Your Address. Change it
         });
 
 
